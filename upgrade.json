@@ -1,44 +1,26 @@
 {
-  "iOS": {
-    "data": [
-      {
-        "productType": "production",
-        "details": [
-          {
-            "versionName": "3.0.0",
-            "forceVersionName": "3.0.0"
-          }
-        ]
-      }
-    ],
-    "remind": {
-      "period": [
-        4,
-        7,
-        30
-      ],
-      "version": 1
+  "data": [
+    {
+      "productType": "production",
+      "details": [
+        {
+          "versionName": "3.0.0",
+          "forceVersionName": "3.0.0"
+        }
+      ]
+    },
+    {
+      "productType": "production",
+      "details": [
+        {
+          "versionName": "3.0.0",
+          "forceVersionName": "3.0.0"
+        }
+      ]
     }
-  },
-  "tvOS": {
-    "data": [
-      {
-        "productType": "production",
-        "details": [
-          {
-            "versionName": "3.0.0",
-            "forceVersionName": "3.0.0"
-          }
-        ]
-      }
-    ],
-    "remind": {
-      "period": [
-        4,
-        7,
-        30
-      ],
+  ],
+  "remind": {
+      "period": [4, 7, 30],
       "version": 1
-    }
   }
 }
